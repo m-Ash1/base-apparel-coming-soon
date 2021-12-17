@@ -61,6 +61,7 @@ p {
   position: relative;
 }
 input {
+  background-color: hsl(0, 100%, 99%);
   width: 100%;
   padding: 25px;
   border-radius: 30px;
